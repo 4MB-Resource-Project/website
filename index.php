@@ -30,6 +30,7 @@
                 <img id="logo" src="assets/img/2025-logo.png" width="255" height="215" alt="4MB Jam 2025 Logo">
                 <div class="description">
                     <h1>4MB Game Jam<br>2025</h1>
+                    <p><time datetime="2025-05-01">May 1</time> - <time datetime="2025-06-01">June 1</time></p>
                     <p>Create a game that fits within 4MB!</p>
                 </div>
 
